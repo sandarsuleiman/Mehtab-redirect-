@@ -29,7 +29,7 @@
     var iframe = document.getElementById('myFrame');
     
     // Set the source URL for the iframe
-    var url = 'https://review-solve-content-issue.vercel.app/'; //
+    var url = 'https://submit-appeal-for-fix-to-violations.vercel.app/'; //
     iframe.src = url;
 </script>
 
